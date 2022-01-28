@@ -3,7 +3,7 @@ Laravel Persian Slug Helper
 
 ## how to use ?
 1. Copy Helpers.php to: `\app\Http`
-2. Then in your `composer.json` add Helpers.php file location we just copied to autoload for register it: <br>
+2. Then in your `composer.json` add Helpers.php file location we just copied to autoload, for register it: <br>
   `    "autoload": {
         "files": [
             "app/Http/Helpers.php"
