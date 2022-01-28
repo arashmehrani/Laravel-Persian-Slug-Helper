@@ -16,6 +16,6 @@ For Example:
 
 $title = 'تست @#$ شماره 123 aBCd';
 $slug = Helpers::makeSlug($title);
-/// outpot
+/// $slug outpot is :
 "تست-شماره-123-abcd"
 ```
